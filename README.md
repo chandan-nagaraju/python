@@ -8,3 +8,6 @@ python for data science
 3.numpy 
 
 4.pandas
+
+5.matplotlib
+
