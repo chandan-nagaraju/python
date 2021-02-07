@@ -11,3 +11,5 @@ python for data science
 
 5.matplotlib
 
+ 6.seaborn 
+
