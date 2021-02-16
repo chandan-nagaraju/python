@@ -1,5 +1,6 @@
 # python
 python for data science
+python tut v1.0 from ineuron
 
 1.lists and boolean variables
 
